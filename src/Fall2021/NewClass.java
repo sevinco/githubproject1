@@ -4,6 +4,7 @@ public class NewClass {
     public static void main(String[] args) {
         String t = "hell";
         String p = "hi";
+        String s= "how";
 
 
     }
